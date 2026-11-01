@@ -1,0 +1,13 @@
+{
+	"geode": ">=3.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+	},
+	"id": "anticheat.realtime_detector",
+	"name": "Hack Detector & Stats",
+	"version": "v1.0.0",
+	"developer": "hshsjdjddhvhjkwjwjwhwhw-wq",
+	"description": "Detector de hacks y stats en tiempo real con HUD flotante arrastrable."
+}
